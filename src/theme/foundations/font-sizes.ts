@@ -1,0 +1,16 @@
+export const FONTSIZES = {
+    xxs: "12px",
+    xs: "14px",
+    sm: "16px",
+    md: "18px",
+    lg: "20px",
+    xl: "24px",
+    "2xl": "26px",
+    "3xl": "28px",
+    "4xl": "32px",
+    "5xl": "36px",
+    "6xl": "40px",
+    "7xl": "44px",
+    "8xl": "48px",
+    "9xl": "52px",
+};

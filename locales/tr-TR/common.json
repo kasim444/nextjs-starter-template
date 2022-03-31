@@ -1,0 +1,45 @@
+{
+    "hello": "Merhaba",
+    "greet": "Merhaba, {{name}}!",
+    "world": "Dünya",
+    "documentation": "Dökümantasyona Git",
+    "language": {
+        "tr": "🇹🇷 Türkçe",
+        "en": "🇺🇸 English"
+    },
+    "other_announcements": "Diğer Duyurular",
+    "form": {
+        "requiredField": "Zorunlu alan",
+        "submitButtonLabel": "Gönder",
+        "tryAgainButtonLabel": "Tekrar Dene",
+        "subscribeButtonLabel": "Abone Ol",
+        "failMessage": "An error has occurred.",
+        "name": {
+            "placeholderText": "Ad"
+        },
+        "surname": {
+            "placeholderText": "Soyad"
+        },
+        "phoneNumber": {
+            "placeholderText": "Telefon Numarası"
+        },
+        "subject": {
+            "placeholderText": "Konu"
+        },
+        "message": {
+            "placeholderText": "Mesaj"
+        },
+        "email": {
+            "placeholderText": "E-posta Adresi",
+            "validField": "Lütfen geçerli bir e-posta girin"
+        },
+        "newsletter": {
+            "successMessage": "Başarıyla kayıt olundu.",
+            "kvkkInformationText": "KVKK Aydınlatma Metni’ni ve Ticari İleti Gönderilmesine İlişkin Açık Rıza Metni’ni okudum kabul ediyorum.",
+            "permitText": "Tarafımla pazarlama ve tanıtım amaçlı e-posta ile iletişime geçilmesine izin veriyorum."
+        },
+        "contactUs": {
+            "successMessage": "Bizimle iletişime geçtiğiniz için teşekkürler."
+        }
+    }
+}

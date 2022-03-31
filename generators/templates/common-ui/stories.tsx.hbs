@@ -1,0 +1,23 @@
+import { ComponentProps } from "react";
+import {{pascalCase name}} from "./{{pascalCase name}}";
+import { I{{pascalCase name}} } from "@interfaces";
+import { Story, ComponentMeta } from "@storybook/react";
+import { getArgs, text } from "@utils/sbControlHelpers";
+
+const argTypes = getArgs<I{{pascalCase name}}>({
+    children: text("string"),
+});
+
+export default {
+    title: "Elements/{{pascalCase name}}",
+    component: {{pascalCase name}},
+    argTypes,
+} as ComponentMeta<typeof {{pascalCase name}}>;
+
+type StoryProps = Story<ComponentProps<typeof {{pascalCase name}}>>;
+const {{pascalCase name}}Template: StoryProps = (args) => <{{pascalCase name}} {...args} />;
+
+export const Default = {{pascalCase name}}Template.bind({});
+Default.args = {
+    children: "string",
+};

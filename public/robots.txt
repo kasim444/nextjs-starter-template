@@ -1,0 +1,14 @@
+
+User-agent: *
+# TODO: comment out allow row after production
+# Allow: /
+# TODO: remove disallow row after production
+# no bot may crawl 
+Disallow: /
+
+# Host
+# Host: http://localhost:3000
+
+# Sitemaps
+# Sitemap: http://localhost:3000/sitemap.xml
+# Sitemap: http://localhost:3000/server-sitemap.xml

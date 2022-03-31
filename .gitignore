@@ -1,0 +1,17 @@
+# npm
+node_modules
+
+# next.js build files
+.next
+
+# environment variables
+.env
+.env.*
+!.env.example
+
+# storybook
+storybook-static
+docs-build
+
+# tsconfig info
+tsconfig.tsbuildinfo

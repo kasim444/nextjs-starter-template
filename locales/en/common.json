@@ -1,0 +1,45 @@
+{
+    "hello": "Hello",
+    "greet": "Hello, {{name}}!",
+    "world": "World",
+    "documentation": "Go To Documentation",
+    "language": {
+        "tr": "🇹🇷 Türkçe",
+        "en": "🇺🇸 English"
+    },
+    "other_announcements": "Other Announcements",
+    "form": {
+        "requiredField": "Required field",
+        "submitButtonLabel": "Submit",
+        "tryAgainButtonLabel": "Try Again",
+        "subscribeButtonLabel": "Subscribe",
+        "failMessage": "An error has occurred.",
+        "name": {
+            "placeholderText": "Name"
+        },
+        "surname": {
+            "placeholderText": "Surname"
+        },
+        "phoneNumber": {
+            "placeholderText": "Phone Number"
+        },
+        "subject": {
+            "placeholderText": "Subject"
+        },
+        "message": {
+            "placeholderText": "Message"
+        },
+        "email": {
+            "placeholderText": "Email address",
+            "validField": "Please enter a valid email"
+        },
+        "newsletter": {
+            "successMessage": "Successfully registered.",
+            "kvkkInformationText": "I have read and accept the KVKK Clarification Text and the Explicit Consent Text for Sending Commercial Messages.",
+            "permitText": "I consent to be contacted by e-mail for marketing and promotional purposes."
+        },
+        "contactUs": {
+            "successMessage": "Thank you for contacting us."
+        }
+    }
+}
